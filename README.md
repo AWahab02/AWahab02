@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🎓 I’m currently completing my [BS-CS from](FAST NUCES, Islamabad)
+- 🎓 I’m currently completing my **[BS-CS from FAST NUCES, Islamabad](https://isb.nu.edu.pk/)**
 
 - 🌱 I’m currently learning DevOps and SWE **[DevOps and Software Engineering](https://www.coursera.org/professional-certificates/devops-and-software-engineering)**
 
@@ -19,13 +19,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- List of your languages and tools here -->
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=awahab02&theme=darkhub" alt="awahab02" />
-  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awahab02&show_icons=true&locale=en&layout=compact&theme=dark" alt="awahab02" /></p>
@@ -33,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awahab02&show_icons=true&locale=en&theme=dark" alt="awahab02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awahab02&theme=dark" alt="awahab02" /></p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=awahab02&theme=darkhub" alt="awahab02" />
+  </a> 
+</p>
