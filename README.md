@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning DevOps and SWE **[DevOps and Software Engineering](https://www.coursera.org/professional-certificates/devops-and-software-engineering)**
 
-- 💬 Ask me about **1990's Grunge**
+- 💬 Ask me about **[1990's Grunge](https://pitchfork.com/features/lists-and-guides/the-best-grunge-albums-of-the-90s/)**
 
 - 📫 Mail me at **awzahid02@gmail.com**
 
